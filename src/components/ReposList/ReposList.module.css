@@ -24,3 +24,10 @@
     padding: 8px;
     text-decoration: none;
 }
+
+.error {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
